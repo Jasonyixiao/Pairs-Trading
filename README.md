@@ -1,7 +1,9 @@
 **Project Objective:**
+
 The project implements and simulates a pairs trading strategy using Coca-Cola (KO) and PepsiCo (PEP) stocks.
 
 **Key Assumptions:**
+
 Initial capital: $100,000 USD
 
 Interest rate: 5% annually
@@ -19,6 +21,7 @@ Expected value of the trade on Jan 16 if entered on Jan 9
 Entry and exit thresholds based on spread
 
 **Main Steps in the Notebook:**
+
 1. Data Loading: 
 
 - Historical data for KO and PEP (from 2019 onwards) is loaded and cleaned.
